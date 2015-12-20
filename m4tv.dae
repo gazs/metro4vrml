@@ -11,193 +11,193 @@
     </asset>
     <library_images>
         <image id="texture0" name="texture0">
-            <init_from>paper.4.gif</init_from>
+            <init_from>textures/paper.4.gif</init_from>
         </image>
         <image id="texture1" name="texture1">
-            <init_from>jeweled.gif</init_from>
+            <init_from>textures/jeweled.gif</init_from>
         </image>
         <image id="texture2" name="texture2">
-            <init_from>maze2.gif</init_from>
+            <init_from>textures/maze2.gif</init_from>
         </image>
         <image id="texture3" name="texture3">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture4" name="texture4">
-            <init_from>celtic51.gif</init_from>
+            <init_from>textures/celtic51.gif</init_from>
         </image>
         <image id="texture5" name="texture5">
-            <init_from>bowtie.gif</init_from>
+            <init_from>textures/bowtie.gif</init_from>
         </image>
         <image id="texture6" name="texture6">
-            <init_from>bowtie.gif</init_from>
+            <init_from>textures/bowtie.gif</init_from>
         </image>
         <image id="texture7" name="texture7">
-            <init_from>bowtie.gif</init_from>
+            <init_from>textures/bowtie.gif</init_from>
         </image>
         <image id="texture8" name="texture8">
-            <init_from>bowtie.gif</init_from>
+            <init_from>textures/bowtie.gif</init_from>
         </image>
         <image id="texture9" name="texture9">
-            <init_from>brick.pattern.1.gif</init_from>
+            <init_from>textures/brick.pattern.1.gif</init_from>
         </image>
         <image id="texture10" name="texture10">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture11" name="texture11">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture12" name="texture12">
-            <init_from>granite.gif</init_from>
+            <init_from>textures/granite.gif</init_from>
         </image>
         <image id="texture13" name="texture13">
-            <init_from>tile0003.jpg</init_from>
+            <init_from>textures/tile0003.jpg</init_from>
         </image>
         <image id="texture14" name="texture14">
-            <init_from>tile0011.jpg</init_from>
+            <init_from>textures/tile0011.jpg</init_from>
         </image>
         <image id="texture15" name="texture15">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture16" name="texture16">
-            <init_from>paper.4.gif</init_from>
+            <init_from>textures/paper.4.gif</init_from>
         </image>
         <image id="texture17" name="texture17">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture18" name="texture18">
-            <init_from>tile0011.jpg</init_from>
+            <init_from>textures/tile0011.jpg</init_from>
         </image>
         <image id="texture19" name="texture19">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture20" name="texture20">
-            <init_from>tile0011.jpg</init_from>
+            <init_from>textures/tile0011.jpg</init_from>
         </image>
         <image id="texture21" name="texture21">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture22" name="texture22">
-            <init_from>tile0016.jpg</init_from>
+            <init_from>textures/tile0016.jpg</init_from>
         </image>
         <image id="texture23" name="texture23">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture24" name="texture24">
-            <init_from>tile0020.jpg</init_from>
+            <init_from>textures/tile0020.jpg</init_from>
         </image>
         <image id="texture25" name="texture25">
-            <init_from>tile0016.jpg</init_from>
+            <init_from>textures/tile0016.jpg</init_from>
         </image>
         <image id="texture26" name="texture26">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture27" name="texture27">
-            <init_from>tile0016.jpg</init_from>
+            <init_from>textures/tile0016.jpg</init_from>
         </image>
         <image id="texture28" name="texture28">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture29" name="texture29">
-            <init_from>tile0020.jpg</init_from>
+            <init_from>textures/tile0020.jpg</init_from>
         </image>
         <image id="texture30" name="texture30">
-            <init_from>tile0020.jpg</init_from>
+            <init_from>textures/tile0020.jpg</init_from>
         </image>
         <image id="texture31" name="texture31">
-            <init_from>tile0020.jpg</init_from>
+            <init_from>textures/tile0020.jpg</init_from>
         </image>
         <image id="texture32" name="texture32">
-            <init_from>bigtile4.gif</init_from>
+            <init_from>textures/bigtile4.gif</init_from>
         </image>
         <image id="texture33" name="texture33">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture34" name="texture34">
-            <init_from>tile0020.jpg</init_from>
+            <init_from>textures/tile0020.jpg</init_from>
         </image>
         <image id="texture35" name="texture35">
-            <init_from>maze2.gif</init_from>
+            <init_from>textures/maze2.gif</init_from>
         </image>
         <image id="texture36" name="texture36">
-            <init_from>granite.gif</init_from>
+            <init_from>textures/granite.gif</init_from>
         </image>
         <image id="texture37" name="texture37">
-            <init_from>benedeti.jpg</init_from>
+            <init_from>textures/benedeti.jpg</init_from>
         </image>
         <image id="texture38" name="texture38">
-            <init_from>rock.face.1.jpg</init_from>
+            <init_from>textures/rock.face.1.jpg</init_from>
         </image>
         <image id="texture39" name="texture39">
-            <init_from>slate.gif</init_from>
+            <init_from>textures/slate.gif</init_from>
         </image>
         <image id="texture40" name="texture40">
-            <init_from>2.jpg</init_from>
+            <init_from>textures/2.jpg</init_from>
         </image>
         <image id="texture41" name="texture41">
-            <init_from>3.jpg</init_from>
+            <init_from>textures/3.jpg</init_from>
         </image>
         <image id="texture42" name="texture42">
-            <init_from>4.jpg</init_from>
+            <init_from>textures/4.jpg</init_from>
         </image>
         <image id="texture43" name="texture43">
-            <init_from>5.jpg</init_from>
+            <init_from>textures/5.jpg</init_from>
         </image>
         <image id="texture44" name="texture44">
-            <init_from>6.jpg</init_from>
+            <init_from>textures/6.jpg</init_from>
         </image>
         <image id="texture45" name="texture45">
-            <init_from>gellert.jpg</init_from>
+            <init_from>textures/gellert.jpg</init_from>
         </image>
         <image id="texture46" name="texture46">
-            <init_from>gellert1.jpg</init_from>
+            <init_from>textures/gellert1.jpg</init_from>
         </image>
         <image id="texture47" name="texture47">
-            <init_from>1.jpg</init_from>
+            <init_from>textures/1.jpg</init_from>
         </image>
         <image id="texture48" name="texture48">
-            <init_from>m4vonal.jpg</init_from>
+            <init_from>textures/m4vonal.jpg</init_from>
         </image>
         <image id="texture49" name="texture49">
-            <init_from>granite.gif</init_from>
+            <init_from>textures/granite.gif</init_from>
         </image>
         <image id="texture50" name="texture50">
-            <init_from>granite.gif</init_from>
+            <init_from>textures/granite.gif</init_from>
         </image>
         <image id="texture51" name="texture51">
-            <init_from>gellertjobbra.gif</init_from>
+            <init_from>textures/gellertjobbra.gif</init_from>
         </image>
         <image id="texture52" name="texture52">
-            <init_from>gellertbalra.gif</init_from>
+            <init_from>textures/gellertbalra.gif</init_from>
         </image>
         <image id="texture53" name="texture53">
-            <init_from>kelenfoldjobbra.gif</init_from>
+            <init_from>textures/kelenfoldjobbra.gif</init_from>
         </image>
         <image id="texture54" name="texture54">
-            <init_from>keletibalra.gif</init_from>
+            <init_from>textures/keletibalra.gif</init_from>
         </image>
         <image id="texture55" name="texture55">
-            <init_from>sztakiwhite.gif</init_from>
+            <init_from>textures/sztakiwhite.gif</init_from>
         </image>
         <image id="texture56" name="texture56">
-            <init_from>handicappedjobbra.gif</init_from>
+            <init_from>textures/handicappedjobbra.gif</init_from>
         </image>
         <image id="texture57" name="texture57">
-            <init_from>handicappedbalra.gif</init_from>
+            <init_from>textures/handicappedbalra.gif</init_from>
         </image>
         <image id="texture58" name="texture58">
-            <init_from>handicappedbalra.gif</init_from>
+            <init_from>textures/handicappedbalra.gif</init_from>
         </image>
         <image id="texture59" name="texture59">
-            <init_from>handicappedmsign.gif</init_from>
+            <init_from>textures/handicappedmsign.gif</init_from>
         </image>
         <image id="texture60" name="texture60">
-            <init_from>gellert.jpg</init_from>
+            <init_from>textures/gellert.jpg</init_from>
         </image>
         <image id="texture61" name="texture61">
-            <init_from>sztakiwhite.gif</init_from>
+            <init_from>textures/sztakiwhite.gif</init_from>
         </image>
         <image id="texture62" name="texture62">
-            <init_from>notexture.png</init_from>
+            <init_from>textures/notexture.png</init_from>
         </image>
     </library_images>
     <library_materials>

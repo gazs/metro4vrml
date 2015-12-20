@@ -1,68 +1,11 @@
-# A-Frame Boilerplate
+# Virtuális valóság modell
 
-Boilerplate for creating WebVR scenes using A-Frame.
+[Metro 4 VRML](http://www.sztaki.hu/providers/metro4/vrml/) →
+[VrmlMerge](http://www.deem7.com/vrmlmerge.php)y→
+[Meshlab](http://meshlab.sourceforge.net/) →
+[A-Frame](https://aframe.io/)
 
-
-## Getting Started
-
-There are two easy options for obtaining this A-Frame scene. It's then up to you to make it your own!
-
-### <sup>Option 1:</sup> Download the ZIP kit 📦
-
-[<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)
-
-After you have __[downloaded and extracted this `.zip` file](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)__ containing the contents of this repo, open the resulting directory, and you'll be have your scene ready in these few steps:
-
-    npm install && npm start
-
-<hr>
-
-### <small><sup>Option 2:</sup> Fork this Git repo 🍴
-
-Alternatively, you can __[fork this repo](https://github.com/aframevr/aframe-boilerplate/fork)__ to get started, if you'd like to maintain a Git workflow.
-
-After you have __[forked this repo](https://github.com/aframevr/aframe-boilerplate/fork)__, clone a copy of your fork locally and you'll be have your scene ready in these few steps:
-
-    git clone git@github.com:your_username/aframe-boilerplate.git
-    cd aframe-boilerplate && npm install && npm start
-
-### <small><sup>Option 3:</sup> Fork this CodePen example
-
-Or, you can simply __[fork this CodePen example](http://codepen.io/team/mozvr/pen/BjygdO?editors=100)__ to dive right in. Enjoy!
-
-
-## Publishing your scene
-
-If you don't already know, GitHub offers free and awesome publishing of static sites through __[https://pages.github.com/](GitHub Pages)__.
-
-To publish your scene to your personal GitHub Pages:
-
-    npm run deploy
-
-And, it'll now be live at __http://`your_username`.github.io/__ :)
-
-<hr>
-
-To know which GitHub repo to deploy to, the `deploy` script first looks at the optional [`repository` key](https://docs.npmjs.com/files/package.json#repository) in the [`package.json` file](package.json) (see [npm docs](https://docs.npmjs.com/files/package.json#repository) for sample usage). If the `repository` key is missing, the script falls back to using the local git repo's remote origin URL (you can run the local command `git remote -v` to see all your remotes; also, you may refer to the [GitHub docs](https://help.github.com/articles/about-remote-repositories/) for more information).
-
-<hr>
-
-## Still need Help?
-
-### Installation
-
-First make sure you have Node installed.
-
-On Mac OS X, it's recommended to use [Homebrew](http://brew.sh/) to install Node + [npm](https://www.npmjs.com):
-
-    brew install node
-
-To install the Node dependencies:
-
-    npm install
-
-
-### Local Development
+# Local Development
 
 To serve the site from a simple Node development server:
 
@@ -76,7 +19,11 @@ If you wish to serve the site from a different port:
 
     PORT=8000 npm start
 
+# License
 
-## License
+© 1997 MTA SZTAKI All rights reserved.
+You are welcome to use this information (VRML model) for non-commercial purposes. You may cite or refer to the information on this World Wide Web in books, online services, or other media, but except as provided below, you may not reproduce or distribute such information in whole or in part without the prior written permission of MTA SZTAKI. To request such permission, send E-mail to webmaster@sztaki.hu, including your name, address and a description of the purpose of your intended distribution and the information you would like to distribute.
 
-This program is free software and is distributed under an [MIT License](LICENSE).
+You may print, reproduce and use the information in, or images from this World Wide Web service (VRML model) for non-commercial, personal, or educational purposes only, provided that you (i) do not modify such information, and (ii) include any copyright notice originally included with such information and this notice in all such copies.
+
+While every effort has been made to ensure that the information contained herein is accurate and complete, MTA SZTAKI shall not be liable for any damages of any kind resulting from use or reliance on this information.

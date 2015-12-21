@@ -1,9 +1,11 @@
 # Virtuális valóság modell
 
 [Metro 4 VRML](http://www.sztaki.hu/providers/metro4/vrml/) →
-[VrmlMerge](http://www.deem7.com/vrmlmerge.php)y→
+[VrmlMerge](http://www.deem7.com/vrmlmerge.php)→
 [Meshlab](http://meshlab.sourceforge.net/) →
 [A-Frame](https://aframe.io/)
+
+contemporary footage: https://www.youtube.com/watch?v=S-6bHoz65KM
 
 # Local Development
 
